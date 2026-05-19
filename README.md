@@ -4,7 +4,9 @@ Markdown
 
 ## 🧑‍💻 Sobre Mí
 
-[PEGA AQUÍ EL TEXTO QUE ELIGISTE]
+Soy un apasionado Desarrollador de software enfocado en el desarrollo Backend con Java y Spring Boot en constante crecimiento profesional. Me apasiona la creación de plataformas web funcionales, integrando el poder de Java con bases de datos como MySQL y la interactividad de React en el Frontend. Me encuentro expandiendo mis habilidades día a día siempre motivado por enfrentar nuevos retos técnicos en equipos dinámicos donde pueda aportar valor mientras sigo creciendo como profesional. Estoy comprometido con aprender constantemente sobre arquitectura limpia y mejores prácticas para diseñar sistemas empresariales robustos, eficientes y escalables.
+
+
 
 ## 🛠️ Habilidades Técnicas
 
