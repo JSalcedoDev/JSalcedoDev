@@ -27,12 +27,12 @@ Markdown
 
 ## 📬 Contacto
 
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_DE_LINKEDIN) : [Tu Nombre Profesional](TU_LINK_DE_LINKEDIN)
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_DE_LINKEDIN) : [Jose Alberto Salcedo](www.linkedin.com/in/jsalcedodev)
 * [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JSalcedoDev) : [@JSalcedoDev](https://github.com/JSalcedoDev)
-* [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](TU_LINK_DE_INSTAGRAM) : [@tu_usuario_instagram](TU_LINK_DE_INSTAGRAM)
-* [![Correo](https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu_correo@gmail.com) : [tu_correo@gmail.com](mailto:tu_correo@gmail.com)
-* [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/TU_NUMERO_CON_CODIGO_DE_PAIS) : [Contactar por WhatsApp](https://wa.me/TU_NUMERO_CON_CODIGO_DE_PAIS)
-* [![CV](https://img.shields.io/badge/Hoja_de_Vida-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](TU_LINK_DE_DRIVE_CV) : [Ver mi Hoja de Vida / CV](TU_LINK_DE_DRIVE_CV)
+* [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](TU_LINK_DE_INSTAGRAM) : [@jsalcedo20](https://www.instagram.com/jsalcedo20/)
+* [![Correo](https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu_correo@gmail.com) : [jsalcedo.2093@gmail.com](mailto:jsalcedo.2093@gmail.com)
+* [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573012630102) : [Contactar por WhatsApp](https://wa.me/573012630102)
+* [![CV](https://img.shields.io/badge/Hoja_de_Vida-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](TU_LINK_DE_DRIVE_CV) : [Jose Alberto Salcedo CV](TU_LINK_DE_DRIVE_CV)
 
 ---
 
