@@ -32,7 +32,7 @@ Markdown
 * [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](TU_LINK_DE_INSTAGRAM) : [@jsalcedo20](https://www.instagram.com/jsalcedo20/)
 * [![Correo](https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu_correo@gmail.com) : [jsalcedo.2093@gmail.com](mailto:jsalcedo.2093@gmail.com)
 * [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573012630102) : [Contactar por WhatsApp](https://wa.me/573012630102)
-* [![CV](https://img.shields.io/badge/Hoja_de_Vida-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](TU_LINK_DE_DRIVE_CV) : [Jose Alberto Salcedo CV](TU_LINK_DE_DRIVE_CV)
+* [![CV](https://img.shields.io/badge/Hoja_de_Vida-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/17vPAw4m_e4_wWgVzPZOHnT3X8NhnxHQ5/view?usp=sharing) : [Jose Alberto Salcedo CV](https://drive.google.com/file/d/17vPAw4m_e4_wWgVzPZOHnT3X8NhnxHQ5/view?usp=sharing)
 
 ---
 
