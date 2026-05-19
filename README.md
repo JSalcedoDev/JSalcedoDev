@@ -27,7 +27,7 @@ Markdown
 
 ## 📬 Contacto
 
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_DE_LINKEDIN) : [Jose Alberto Salcedo](www.linkedin.com/in/jsalcedodev)
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jsalcedodev) : [Jose Alberto Salcedo](www.linkedin.com/in/jsalcedodev)
 * [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JSalcedoDev) : [@JSalcedoDev](https://github.com/JSalcedoDev)
 * [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](TU_LINK_DE_INSTAGRAM) : [@jsalcedo20](https://www.instagram.com/jsalcedo20/)
 * [![Correo](https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu_correo@gmail.com) : [jsalcedo.2093@gmail.com](mailto:jsalcedo.2093@gmail.com)
